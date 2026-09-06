@@ -10,7 +10,6 @@ I’m a software engineer in Warsaw, building practical tools and thoughtful use
 
 - [**gridfm**](https://github.com/ilyaryabchinski/gridfm) — a keyboard-first terminal file manager with a responsive visual grid.
 - **Polish** — a Chrome extension for correcting selected text through an OpenAI-compatible API.
-- **Emotions** — a private emotion check-in app built with Expo and a Hono API.
 
 ## Currently exploring
 
