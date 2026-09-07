@@ -2,7 +2,7 @@
 
 I’m a software engineer in Warsaw, building practical tools and thoughtful user experiences across the web, mobile, and the terminal.
 
-- Building with **TypeScript, React, React Native, Go, and Rust**
+- Building with **TypeScript, React, Python, Go, and Rust**
 - Interested in developer tools, AI-assisted workflows, and privacy-respecting software
 - Writing and shipping at [ilya.codes](https://ilya.codes)
 
