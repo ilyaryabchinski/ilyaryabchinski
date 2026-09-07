@@ -9,7 +9,7 @@ I’m a software engineer in Warsaw, building practical tools and thoughtful use
 ## Selected work
 
 - [**gridfm**](https://github.com/ilyaryabchinski/gridfm) — a keyboard-first terminal file manager with a responsive visual grid.
-- **Polish** — a Chrome extension for correcting selected text through an OpenAI-compatible API.
+- [**Polish**](https://github.com/ilyaryabchinski/polish) — a Chrome extension for correcting selected text through an OpenAI-compatible API.
 
 ## Currently exploring
 
